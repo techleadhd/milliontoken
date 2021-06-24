@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Million Token
+
+This site is under construction.
+
+---
 
 You can use the [editor on GitHub](https://github.com/techleadhd/milliontoken/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
