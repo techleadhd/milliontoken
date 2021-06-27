@@ -17,7 +17,7 @@ More details to follow.
 #### About the Team
 Million Token was founded in June 2021 by the ex-Google, ex-Facebook, millionaire TechLead.
 
-  <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/avatar.png" width="100" height="100" align="left">
+<img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/avatar.png" width="100" height="100">
   
 - TechLead on YouTube: https://www.youtube.com/techlead
 - TechLead on Twitter: https://twitter.com/techleadhd
