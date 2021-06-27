@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
-
 ## Million Token
+
+<img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
 
 🌕 Million Token is a digital currency of fixed-supply (**1,000,000 coins total**) created by [TechLead](https://www.youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1m+ subscribers on YouTube. This project was founded by July 2021.
 
