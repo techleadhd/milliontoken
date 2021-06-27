@@ -12,13 +12,13 @@ The token has a few unique properties:
 
 **Ethereum Blockchain** - Million Token exists as an ERC-20 smart contract on the Ethereum blockchain, decentralized and validated by millions of computers worldwide.
 
-More details to follow.
+*More details to follow.*
   
 #### About the Team
 Million Token was founded in June 2021 by the ex-Google, ex-Facebook, millionaire TechLead.
 
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/avatar.png" width="100" height="100">
   
-- TechLead on YouTube: https://www.youtube.com/techlead
-- TechLead on Twitter: https://twitter.com/techleadhd
-- TechLead on Instagram: http://instagram.com/techleadhd
+TechLead on YouTube: https://www.youtube.com/techlead <BR>
+TechLead on Twitter: https://twitter.com/techleadhd <BR>
+TechLead on Instagram: http://instagram.com/techleadhd <BR>
