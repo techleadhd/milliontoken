@@ -1,6 +1,7 @@
 <head>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" />
 </head>
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
 
