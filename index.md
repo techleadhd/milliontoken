@@ -9,7 +9,7 @@
 
 <h4>
   <B>Buy Million Token:
-<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </h4>
+<a href="https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </h4>
   
   **Official Website:** <a href="https://milliontoken.org/">https://milliontoken.org/</a> <BR>
 **Smart Contract:** <a href="https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
@@ -36,7 +36,7 @@ Million has some unique properties.
 <h3>How To Buy Million</h3>
   
 <B>  Million can be bought on Uniswap.
-<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a></B>
+<a href="https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a></B>
 
 ### QuickStart Guide
   
@@ -44,7 +44,7 @@ Million has some unique properties.
 - **Send Ethereum (or USDC) to your Metamask wallet**. You can buy Ethereum (or USDC) on Metamask directly, or through other platforms like [Coinbase](https://www.coinbase.com/join/shyu_w), [BlockFi](http://blockfi.com/techlead), etc., and then send them to your Metamask wallet.
 - **Connect to Uniswap and swap for Million.**
 Trade for Million on Uniswap.
-<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
+<a href="https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
   
 <HR>
 <h3>
