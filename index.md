@@ -12,8 +12,9 @@
 <a href="https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611&inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48">https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </h4>
   
   **Official Website:** <a href="https://milliontoken.org/">https://milliontoken.org/</a> <BR>
-**Smart Contract:** <a href="https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
-
+**Smart Contract:** <a href="https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a><BR>
+**Reddit /r/milliontoken** <a href="https://www.reddit.com/r/milliontoken/">https://www.reddit.com/r/milliontoken/</a>
+  
   <HR>
 <h3>Million Concept</h3>
   Million is a stablecoin pre-mined to a fixed supply of 1,000,000 tokens pegged to a minimum of $1.00 USD per token (with no maximum value). 
