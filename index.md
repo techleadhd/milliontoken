@@ -12,10 +12,11 @@
 
 <span style='font-size:20px'> 
   <B>Buy Million:
-https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611 </B> </span>
+<a href=https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611>https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </span>
 <BR><BR>
-**Official Website:** https://milliontoken.org/ <BR>
-**Smart Contract:** https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611
+  
+  **Official Website:** <a href=https://milliontoken.org/>https://milliontoken.org/</a> <BR>
+**Smart Contract:** <a href=https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611>https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
 
   <HR>
 <h3>Million Concept</h3>
@@ -39,21 +40,21 @@ Million Token has some unique properties.
 <h3>How To Buy Million</h3>
   
   Million Token can be bought on Uniswap.
-https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611
+<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
 
 ### QuickStart Guide
   
-- **Create a digital currency wallet**, for example with the secure Metamask Wallet https://metamask.io/
+- **Create a digital currency wallet**, for example with the secure Metamask Wallet <a href=https://metamask.io/>https://metamask.io/</a>
 - **Send Ethereum (or USDC) to your Metamask wallet**. You can buy Ethereum (or USDC) on Metamask directly, or through other platforms like [Coinbase](https://www.coinbase.com/join/shyu_w), [BlockFi](http://blockfi.com/techlead), etc., and then send them to your Metamask wallet.
 Connect to Uniswap and swap for Million Token.
 - **Trade for Million Tokens on Uniswap.**
-https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611
-
+<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
+  
 <HR>
 <h3>
  Million Source Code
 </h3>
-https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611#code
+<a href="https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611#code">https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611#code</a>
   
 <HR>
 <h3> About the Team</h3>
@@ -61,8 +62,8 @@ Million Token was founded in June 2021 by the ex-Google, ex-Facebook, millionair
 
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/avatar.png" width="100" height="100">
 
-TechLead on YouTube: https://www.youtube.com/techlead <BR>
-TechLead on Twitter: https://twitter.com/techleadhd <BR>
-TechLead on Instagram: http://instagram.com/techleadhd <BR>
+  TechLead on YouTube: <a href=https://www.youtube.com/techlead>https://www.youtube.com/techlead</a> <BR>
+  TechLead on Twitter: <a href=https://twitter.com/techleadhd>https://twitter.com/techleadhd</a> <BR>
+  TechLead on Instagram: <a href=http://instagram.com/techleadhd>http://instagram.com/techleadhd</a> <BR>
 
   
