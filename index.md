@@ -7,6 +7,9 @@
 
 🌕 Million is a decentralized digital currency pegged to a minimum value of $1.00 USD with a fixed-supply of 1,000,000 tokens, for a total market cap of $1,000,000+ USD.  Million was founded by [TechLead](http://youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1,000,000 subscribers on YouTube (as a millionaire).
 
+<h3>
+  This token is not liquidity pool locked as you can see from the link <a href="https://app.unicrypt.network/amm/uni-v2/token/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611">here</a>. This means that TechLead can withdraw the liquidity at any time, rendering the tokens you bought priceless. </h3>
+  
 <h4>
   <B>Buy Million Token:
 <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </h4>
