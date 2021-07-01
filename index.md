@@ -1,19 +1,14 @@
-## Million Token
 <head>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
-
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
 
-<h4>A Decentralized Digital Currency with a 1,000,000 fixed token supply and $1,000,000+ market cap.</h4>
-<BR>
 🌕 Million Token is a decentralized digital currency pegged to a minimum value of $1.00 USD with a fixed-supply of 1,000,000 tokens, for a total market cap of $1,000,000+ USD.  Million Token was founded by [TechLead](http://youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1,000,000 subscribers on YouTube who is also a millionaire.
 
 <h4>
   <B>Buy Million:
 <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a> </B> </h4>
-<BR><BR>
   
   **Official Website:** <a href="https://milliontoken.org/">https://milliontoken.org/</a> <BR>
 **Smart Contract:** <a href="https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
@@ -39,15 +34,15 @@ Million Token has some unique properties.
 
 <h3>How To Buy Million</h3>
   
-  Million Token can be bought on Uniswap.
-<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
+<B>  Million Token can be bought on Uniswap.
+<a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a></B>
 
 ### QuickStart Guide
   
 - **Create a digital currency wallet**, for example with the secure Metamask Wallet <a href="https://metamask.io/">https://metamask.io/</a>
 - **Send Ethereum (or USDC) to your Metamask wallet**. You can buy Ethereum (or USDC) on Metamask directly, or through other platforms like [Coinbase](https://www.coinbase.com/join/shyu_w), [BlockFi](http://blockfi.com/techlead), etc., and then send them to your Metamask wallet.
-Connect to Uniswap and swap for Million Token.
-- **Trade for Million Tokens on Uniswap.**
+- **Connect to Uniswap and swap for Million Token.**
+Trade for Million Tokens on Uniswap.
 <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
   
 <HR>
