@@ -4,7 +4,7 @@
 </head>
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
 
-🌕 Million Token is a decentralized digital currency pegged to a minimum value of $1.00 USD with a fixed-supply of 1,000,000 tokens, for a total market cap of $1,000,000+ USD.  Million Token was founded by [TechLead](http://youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1,000,000 subscribers on YouTube who is also a millionaire.
+🌕 Million Token is a decentralized digital currency pegged to a minimum value of $1.00 USD with a fixed-supply of 1,000,000 tokens, for a total market cap of $1,000,000+ USD.  Million Token was founded by [TechLead](http://youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1,000,000 subscribers on YouTube, who is also a millionaire.
 
 <h4>
   <B>Buy Million:
