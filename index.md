@@ -6,16 +6,14 @@
 
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/coin.png" width="100" height="100">
 
-> A Decentralized Digital Currency with a 1,000,000 fixed token supply and $1,000,000+ market cap.
+<h4>A Decentralized Digital Currency with a 1,000,000 fixed token supply and $1,000,000+ market cap.</h4>
   
 🌕 Million Token is a decentralized digital currency pegged to a minimum value of $1.00 USD with a fixed-supply of 1,000,000 tokens, for a total market cap of $1,000,000+ USD.  Million Token was founded by [TechLead](http://youtube.com/techlead), an ex-Google / ex-Facebook tech lead with over 1,000,000 subscribers on YouTube who is also a millionaire.
 
-<h4>
-  
-**Buy Million:**
-https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611 <BR>
-  </h4>
-
+<span style='font-size:20px'> 
+  <B>Buy Million:
+https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611 </B> </span>
+<BR><BR>
 **Official Website:** https://milliontoken.org/ <BR>
 **Smart Contract:** https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611
 
@@ -37,7 +35,8 @@ Million Token has some unique properties.
 * **Ethereum Blockchain** - Million Token exists as an ERC-20 smart contract on the Ethereum blockchain, decentralized and validated by millions of computers worldwide.
 
 <HR>
-     <h3>How To Buy Million</h3>
+
+<h3>How To Buy Million</h3>
   
   Million Token can be bought on Uniswap.
 https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611
@@ -58,7 +57,7 @@ https://etherscan.io/address/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611#code
   
 <HR>
 <h3> About the Team</h3>
-Million Token was founded in June 2021 by the ex-Google, ex-Facebook, millionaire TechLead.<BR><BR>
+Million Token was founded in June 2021 by the ex-Google, ex-Facebook, millionaire TechLead.<BR>
 
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/avatar.png" width="100" height="100">
 
