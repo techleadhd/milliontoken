@@ -14,7 +14,9 @@
   **Official Website:** <a href="https://milliontoken.org/">https://milliontoken.org/</a> <BR>
 **Smart Contract:** <a href="https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a><BR>
 **Reddit /r/milliontoken:** <a href="https://www.reddit.com/r/milliontoken/">https://www.reddit.com/r/milliontoken/</a> <BR>
-**Discord:** <a href="https://discord.gg/yvgbWsnbZC">https://discord.gg/yvgbWsnbZC</a>
+**Discord:** <a href="https://discord.gg/yvgbWsnbZC">https://discord.gg/yvgbWsnbZC</a> <BR>
+**Instagram:** <a href="https://www.instagram.com/milliontoken/">https://www.instagram.com/milliontoken/</a> <BR>
+**Tiktok:** <a href="https://www.tiktok.com/@milliontoken">https://www.tiktok.com/@milliontoken</a>
   
   <HR>
 <h3>Million Concept</h3>
