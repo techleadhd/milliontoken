@@ -23,8 +23,11 @@
 <BR>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xBSEMJDwvXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <BR>
-As Million gains popularity and usage, the value may increase above the initial peg-value of $1.00 USD.  For example, if 1000 people each want 1000 Millions, the fair market value of Million is $1.00 USD each. If 2000 people each want 1000 Millions, the fair market value of Million rises to $2.00 USD, thereby increasing the market cap of Million to $2 million.  Over time, the price of Million may reach $10 million, $100 million, or even higher.
-
+As Million gains popularity and usage, the value may increase above the initial peg-value of $1.00 USD.  For example, if 1000 people each want 1000 Millions, the fair market value of Million is $1.00 USD each. If 2000 people each want 1000 Millions, the fair market value of Million rises to $2.00 USD, thereby increasing the market cap of Million to $2 million.  Over time, the price of Million may reach $10 million, $100 million, or even higher.<BR><BR>
+  
+**(UPDATE VIDEO) Million Token surpasses $5 MILLION market cap**
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-pN8jCpEFy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
   <hr>
   <h3> Million Properties</h3>
 Million has some unique properties.
