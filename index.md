@@ -20,7 +20,7 @@
 
   <HR>
 <h3>Million Concept</h3>
-  Million is a stablecoin pre-mined to a fixed supply of 1,000,000 tokens pegged to a minimum of $1.00 USDC per token (with no maximum value). 
+  Million is a cryptocurrency pre-mined to a fixed supply of 1,000,000 tokens pegged to a minimum of $1.00 USDC per token (with no maximum value). 
 <BR>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xBSEMJDwvXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <BR>
@@ -34,8 +34,8 @@ As Million gains popularity and usage, the value may increase above the initial 
 Million has some unique properties.
 
 * **1,000,000 Fixed Limited Supply** - Million has a fixed supply of 1,000,000 tokens total. No more can ever be created (guaranteed by code). Million is deflationary by nature.  Million begins with a peg of $1.00 USDC per token, and its value increases over time with scarcity.
-* **$1+ Million Dollar Valuation** - With one million tokens in circulation, Million is worth a **minimum** of $1,000,000 USDC total market capitalization but can be worth much more.
-* **Moonshot Upside**.  For holders of Million, there is unlimited upside.  Unlike traditional stablecoins (pegged to $1 USDC = 1 Token), Million has a fixed supply and therefore has an unbound maximum.  As Million gains popularity and circulation, it could potentially reach higher values being worth as much as $10 million or $100 million theoretically. The moon is the limit.
+* **$1+ Million USDC Valuation** - With one million tokens in circulation, Million is worth a **minimum** of $1,000,000 USDC total market capitalization but can be worth much more.
+* **Moonshot Upside**.  For holders of Million, there is unlimited upside.  Unlike traditional stablecoins (pegged to 1 Token = $1 USD), Million has a fixed supply and therefore has an unbound maximum.  As Million gains popularity and circulation, it could potentially reach higher values being worth as much as $10 million or $100 million theoretically. The moon is the limit.
 * **Millionaire Approved** - Million is founded and backed by millionaire TechLead (with a million subscribers on YouTube). As Million gains popularity amongst more and more people, it gains usage and acceptance as a form of digital currency spreading exponentially through word of mouth. With popularity, the value of Million grows.
 * **Store of Value + Transactional Currency**.  As a decentralized currency secured by millions of computers worldwide on the Ethereum blockchain, Million can be used as both a store of value and a means of transaction.  Million's unique limited supply makes it especially ideal as a store of value with unlimited upside.  Million can be transferred in fractional amounts (up to 18 decimals), allowing it to be used for microtransactions as well.
 * **Ethereum Blockchain** - Million exists as an ERC-20 smart contract on the Ethereum blockchain, decentralized and validated by millions of computers worldwide.
@@ -44,8 +44,8 @@ Million has some unique properties.
 
 <h3>How To Buy Million</h3>
   
-<B>  Million can be bought on Uniswap.
-<a href="https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611&inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48">https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a></B>
+Million can be bought on Uniswap.
+<a href="https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611&inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"><B>https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</B></a>
 
 ### QuickStart Guide
   
