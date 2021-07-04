@@ -71,6 +71,5 @@ Million was founded in June 2021 by the ex-Google, ex-Facebook TechLead (as a mi
   TechLead on Twitter: <a href="https://twitter.com/techleadhd">https://twitter.com/techleadhd</a> <BR>
   TechLead on Instagram: <a href="http://instagram.com/techleadhd">http://instagram.com/techleadhd</a> <BR>
 
-<BR>
-  <div style='font-size:12px'><I>DISCLOSURE</I> By purchasing Million Token, you agree that you are not purchasing a security or investment and you agree to hold the team harmless and not liable for nay losses or taxes you may incur. Although Million is a community driven DeFi Ecosystem and not a registered digital currency, always make sure that you are in compliance with local laws and regulations before you make any purchase. Cryptocurrencies are not legal tender and are not investments.
+  <div style='font-size:13px'><I>DISCLOSURE</I> By purchasing Million Token, you agree that you are not purchasing a security or investment and you agree to hold the team harmless and not liable for nay losses or taxes you may incur. Although Million is a community driven DeFi Ecosystem and not a registered digital currency, always make sure that you are in compliance with local laws and regulations before you make any purchase. Cryptocurrencies are not legal tender and are not investments.
   </div>
