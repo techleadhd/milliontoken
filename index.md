@@ -21,8 +21,8 @@
 **Reddit /r/milliontoken:** <a href="https://www.reddit.com/r/milliontoken/">https://www.reddit.com/r/milliontoken/</a> <BR>
 **Discord:** <a href="https://discord.gg/yvgbWsnbZC">https://discord.gg/yvgbWsnbZC</a><BR>
 **Telegram:** <a href="https://t.me/MillionTokenHolders">https://t.me/MillionTokenHolders</a><BR>
-**Instagram:** <a href="https://www.instagram.com/milliontoken/">https://www.instagram.com/milliontoken/</a><BR>
 **Twitter:** <a href="https://twitter.com/Million__Token">https://twitter.com/Million__Token</a><BR>
+**Instagram:** <a href="https://www.instagram.com/milliontoken/">https://www.instagram.com/milliontoken/</a><BR>
 
   <HR>
 <h3>Million Concept</h3>
