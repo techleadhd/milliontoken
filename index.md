@@ -16,7 +16,7 @@
 **CoinGecko:** <a href="https://www.coingecko.com/en/coins/million">https://www.coingecko.com/en/coins/million</a><BR>
 
 <h4>
-  <B>Get involved with the community:
+  <B>Get involved with the community:</b>
 </h4>
 **Reddit /r/milliontoken:** <a href="https://www.reddit.com/r/milliontoken/">https://www.reddit.com/r/milliontoken/</a> <BR>
 **Discord:** <a href="https://discord.gg/yvgbWsnbZC">https://discord.gg/yvgbWsnbZC</a><BR>
