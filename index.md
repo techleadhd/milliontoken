@@ -58,7 +58,7 @@ Million Token can be bought on Uniswap.
 ### QuickStart Guide
   
 - **Create a digital currency wallet**, for example with the secure Metamask wallet <a href="https://metamask.io/">https://metamask.io/</a>
-- **Send Ethereum (or USDC) to your Metamask wallet**. You can buy Ethereum (or USDC) on Metamask directly, or through other platforms like [Coinbase](https://www.coinbase.com/join/shyu_w), [BlockFi](http://blockfi.com/techlead), etc., and then send them to your Metamask wallet.
+- **Send Ethereum to your Metamask wallet**. You can buy Ethereum on Metamask directly, or through other platforms like [Coinbase](https://www.coinbase.com/join/shyu_w), [BlockFi](http://blockfi.com/techlead), etc., and then send them to your Metamask wallet.
 - **Connect to Uniswap and swap for Million.**
 Trade for Million on Uniswap.
 <a href="https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611&inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48">https://app.uniswap.org/#/swap?outputCurrency=0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a>
