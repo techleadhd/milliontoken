@@ -36,7 +36,7 @@ As Million gains popularity and usage, the value may increase above the initial 
   
   **JULY 5, 2021** - Million Token - Answering questions and status update <a href="https://www.youtube.com/embed/iITypTHJnAQ">https://www.youtube.com/embed/iITypTHJnAQ</a>
 <BR>
-**July 3, 2021** - Million Token surpasses $5 MILLION MARKET CAP in 24 hours <a href="https://www.youtube.com/watch?v=-pN8jCpEFy0">https://www.youtube.com/watch?v=-pN8jCpEFy0</A>
+**July 3, 2021** - Million Token surpasses $5 MILLION MARKET CAP in 48 hours <a href="https://www.youtube.com/watch?v=-pN8jCpEFy0">https://www.youtube.com/watch?v=-pN8jCpEFy0</A>
   
   <hr>
   <h3> Million Properties</h3>
