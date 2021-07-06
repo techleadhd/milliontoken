@@ -31,7 +31,7 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xBSEMJDwvXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <BR>
 As Million gains popularity and usage, the value may increase above the initial peg-value of 1.00 $USDC.  For example, if 1000 people each want 1000 Millions, the fair market value of Million is 1.00 $USDC each. If 2000 people each want 1000 Millions, the fair market value of Million rises to 2.00 $USDC, thereby increasing the market cap of Million to 2 million $USDC.  Over time, the price of Million may reach 10 million, 100 million, or even higher.<BR>
-<BR>  
+
 **UPDATES**<BR>
   
   **JULY 5, 2021** - Million Token - Answering questions and status update <a href="https://www.youtube.com/embed/iITypTHJnAQ">https://www.youtube.com/embed/iITypTHJnAQ</a>
