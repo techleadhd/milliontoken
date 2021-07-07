@@ -20,7 +20,7 @@
   <B>Get involved with the community:</b>
 </h4>
 **Reddit /r/milliontoken:** <a href="https://www.reddit.com/r/milliontoken/">https://www.reddit.com/r/milliontoken/</a> <BR>
-**Discord:** <a href="https://discord.gg/yvgbWsnbZC">https://discord.gg/yvgbWsnbZC</a><BR>
+**Discord:** <a href="https://discord.gg/MillionToken">https://discord.gg/MillionToken</a><BR>
 **Telegram:** <a href="https://t.me/MillionTokenHolders">https://t.me/MillionTokenHolders</a><BR>
 **Twitter:** <a href="https://twitter.com/Million__Token">https://twitter.com/Million__Token</a><BR>
 **Instagram:** <a href="https://www.instagram.com/milliontoken/">https://www.instagram.com/milliontoken/</a><BR>
