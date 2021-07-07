@@ -14,7 +14,8 @@
   **Official Website:** <a href="https://milliontoken.org/">https://milliontoken.org/</a> <BR>
 **Smart Contract:** <a href="https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611">https://etherscan.io/token/0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611</a><BR>
 **CoinGecko:** <a href="https://www.coingecko.com/en/coins/million">https://www.coingecko.com/en/coins/million</a><BR>
-
+**Nomics:** <a href="https://nomics.com/assets/mm4-million">https://nomics.com/assets/mm4-million</a><BR>
+  
 <h4>
   <B>Get involved with the community:</b>
 </h4>
