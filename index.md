@@ -36,8 +36,8 @@ As Million gains popularity and usage, the value may increase above the initial 
 **UPDATES**<BR>
   
   **JULY 5, 2021** - Million Token - Answering questions and status update <a href="https://www.youtube.com/embed/iITypTHJnAQ">https://www.youtube.com/embed/iITypTHJnAQ</a>
-<BR><BR>
-  
+<BR>
+
 **July 3, 2021** - Million Token surpasses $5 MILLION MARKET CAP in 48 hours <a href="https://www.youtube.com/watch?v=-pN8jCpEFy0">https://www.youtube.com/watch?v=-pN8jCpEFy0</A>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-pN8jCpEFy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
