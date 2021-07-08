@@ -5,7 +5,9 @@
 </head>
 <img src="https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo256x256.png" width="100" height="100">
 
-Million is a decentralized digital currency pegged to a minimum value of 1.00 $USDC with a fixed-supply of 1,000,000 tokens, for a total market cap of 1,000,000+ $USDC.  Million Token was founded by the ex-Google / ex-Facebook [TechLead](http://youtube.com/techlead) with over 1,000,000 subscribers on YouTube (as a millionaire). In every MILLION is a LION.
+Million is a decentralized digital currency pegged to a minimum value of 1.00 $USDC with a fixed-supply of 1,000,000 tokens, for a total market cap of 1,000,000+ $USDC.  Million Token was founded by the ex-Google / ex-Facebook [TechLead](http://youtube.com/techlead) with over 1,000,000 subscribers on YouTube (as a millionaire). 
+
+In every MILLION is a LION.
 
 <h4>
   <B>Buy Million Token:
